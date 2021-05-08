@@ -1,1 +1,1 @@
-# template-python-cli
+# template-cli-python
